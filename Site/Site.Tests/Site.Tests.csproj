@@ -106,9 +106,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Site\Site.csproj">
+    <ProjectReference Include="..\Site\GetItForFree.Web.csproj">
       <Project>{29924385-4A3F-472D-860F-F490E3260E08}</Project>
-      <Name>Site</Name>
+      <Name>GetItForFree.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
